@@ -5,4 +5,5 @@
 ## This is where scripting comes in. With PerlinCraft's modding API you can mod the game with simple code.
 
 # Gallery
-<img alt="World generation" src="/images/generation.png">
+<img alt="World generation" src="/images/generation.png"><br>
+<img alt="Gumballs from a mod" src="/images/gum.png">
