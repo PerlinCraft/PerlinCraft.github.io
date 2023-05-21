@@ -13,5 +13,5 @@ Play PerlinCraft <a href="https://web.roblox.com/games/13473011206/PerlinCraft">
 <img alt="Gumballs from a mod" src="/images/gum.png"><br>
 <img alt="Making a PerlinCraft mod that gives the player speed" src="/images/modding.png"><br>
 <img alt="Surviving a zombie horde" src="/images/zombies.png"><br>
-<img alt="Shooting arrow projectiles at grass" src="/images/bow.png"><br>
+<img alt="Shooting arrow projectiles at sand" src="/images/bow.png"><br>
 <img alt="Running a PerlinCraft mod that makes the player jump high" src="/images/jump.png"><br>
