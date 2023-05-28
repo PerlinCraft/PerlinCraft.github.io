@@ -4,7 +4,7 @@ It is pretty much nothing by default.
 
 This is where scripting comes in. With PerlinCraft's modding API you can mod the game with simple code.
 
-Learn how to mod PerlinCraft <a href="https://github.com/PerlinCraft/PerlinAPI">here</a>
+Learn how to mod PerlinCraft <a href="https://perlincraft.github.io/PerlinAPI">here</a>
 
 Play PerlinCraft <a href="https://web.roblox.com/games/13473011206/PerlinCraft">here</a>
 
